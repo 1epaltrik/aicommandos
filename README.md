@@ -59,5 +59,5 @@
 </ol>
 
 <h3>Βίντεο</h3>
-<p>Δείτε την παρουσίαση του έργου εδώ: https://www.youtube.com/watch?v=GHP90vuGQoI</p>
+<p>Δείτε την παρουσίαση του έργου <a href="https://www.youtube.com/watch?v=GHP90vuGQoI" target=_blank>εδώ.</a></p>
 
