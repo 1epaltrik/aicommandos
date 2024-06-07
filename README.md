@@ -25,4 +25,26 @@
 <p>Ωστόσο για τη λύση που προτείνουμε δεν βρήκαμε καμία συγκεκριμένη αναφορά, οπότε θεωρούμε ότι είναι πρωτότυπη.</p>
 <h3>Κόστος</h3>
 <p>Το συνολικό κόστος για το σύστημα ανέρχεται στα 160 ευρώ περίπου.</p>
+<h3>Λίστα υλικών και εργαλείων</h3>
+<table border=1 cellspacing=0>
+<tr><th>Υλικό</th>
+<th>Τιμή</th></tr>
+<tr><td>Τροφοδοτικό 12V 3A</td>
+<td>7.20</td></tr>
+<tr><td>Jumper Wires</td>
+<td>4.40</td></tr>
+<tr><td>Πλακέτα Δοκιμών</td>
+<td>3.20</td></tr>
+<tr><td>Arduino UNO R4 WiFi</td>
+<td>32.80</td></tr>
+<tr><td>Servo Standard 7.5kg.cm Metal Gears</td>
+<td>16.90</td></tr>
+<tr><td>Gravity HUSKYLENS AI Machine Vision Sensor</td>
+<td>69.90</td></tr>
+<tr><td>Νήμα 3D εκτύπωσης</td>
+<td>25.00</td></tr>
+</table>
+
+
+
 
